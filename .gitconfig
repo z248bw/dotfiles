@@ -1,0 +1,13 @@
+[user]
+    email = k.k@k
+    name = k
+[core]
+    editor = vim
+[alias]
+    co = checkout
+    ci = commit
+    st = status
+    br = branch
+    rh = reset --hard HEAD
+    cp = cherry-pick
+    rbi = rebase -i
